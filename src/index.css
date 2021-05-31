@@ -1,0 +1,15 @@
+#root{
+  height: 100%;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.navTag{
+  padding: 2rem;
+  font-size: 1.2rem;
+  background-color: rgb(255, 255, 255);
+  border-bottom: 2px rgba(0, 0, 0, 0.063) solid;
+}
+
+.navItemTag{
+  padding-left: 1rem;
+}

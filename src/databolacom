@@ -1,0 +1,75 @@
+export default {
+  bolacom: 
+[
+    {
+        "Date": "31 Mei 2021 16:15",
+        "Img": "https://cdn1-production-images-kly.akamaized.net/SBLmRA5p2epcfFNQIfAfRmEIL5g=/375x208/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3362093/original/092029000_1611824429-AP21027796105460.jpg",
+        "Link": "https://m.bola.com/inggris/read/4570421/bursa-transfer-liga-inggris-manchester-united-rekrut-kiper-baru-david-de-gea-fix-cabut?medium=Headline__mobile&campaign=Headline_click_1",
+        "Source": "bola.com",
+        "Title": "Bursa Transfer Liga Inggris: Manchester United Rekrut Kiper Baru, David De Gea Fix Cabut?"
+    },
+    {
+        "Date": "31 Mei 2021 14:15",
+        "Img": "https://cdn1-production-images-kly.akamaized.net/_1_ND-MYDNe0wkQdPEhd0F52MYM=/85x85/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3460143/original/072510400_1621467623-6_AP21139740005743.jpg",
+        "Link": "https://m.bola.com/inggris/read/4570340/bursa-transfer-liga-inggris-liverpool-sekolahkan-bek-masa-depannya-ke-burnley",
+        "Source": "bola.com",
+        "Title": "Bursa Transfer Liga Inggris: Liverpool Sekolahkan Bek Masa Depannya ke Burnley?"
+    },
+    {
+        "Date": "31 Mei 2021 14:00",
+        "Img": "https://cdn0-production-images-kly.akamaized.net/VFQiVjXUz5vP82eR1_BcThEHCZY=/85x85/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3410060/original/076916600_1616575484-Chelsea_-_Ngolo_Kante.jpg",
+        "Link": "https://m.bola.com/inggris/read/4570327/liga-inggris-calon-peraih-ballon-dor-ini-keistimewaan-ngolo-kante-di-mata-kapten-chelsea",
+        "Source": "bola.com",
+        "Title": "Liga Inggris: Calon Peraih Ballon d'Or, Ini Keistimewaan N'Golo Kante di Mata Kapten Chelsea"
+    },
+    {
+        "Date": "31 Mei 2021 12:45",
+        "Img": "https://cdn0-production-images-kly.akamaized.net/t6R3vE4qeYUy-VHgA4AH2wvnWu0=/85x85/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3462153/original/043171600_1621605728-000_UX7OA.jpg",
+        "Link": "https://m.bola.com/inggris/read/4570252/bursa-transfer-liga-inggris-barcelona-siap-lepas-coutinho-ambil-enggak-nih-liverpool",
+        "Source": "bola.com",
+        "Title": "Bursa Transfer Liga Inggris: Barcelona Siap Lepas Coutinho, Ambil Enggak Nih Liverpool?"
+    },
+    {
+        "Date": "31 Mei 2021 09:30",
+        "Img": "https://cdn1-production-images-kly.akamaized.net/Oqx33jp1dM6b5TKVaSFewu_PvUk=/85x85/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3434938/original/082213900_1618964218-6_AP21110765064383.jpg",
+        "Link": "https://m.bola.com/inggris/read/4570082/liga-inggris-liverpool-berpeluang-dapatkan-suksesor-georginio-wijnaldum",
+        "Source": "bola.com",
+        "Title": "Liga Inggris: Liverpool Berpeluang Dapatkan Suksesor Georginio Wijnaldum"
+    },
+    {
+        "Date": "31 Mei 2021 06:30",
+        "Img": "https://cdn0-production-images-kly.akamaized.net/g5yhp3-tUJKF3OetYhF9L3qNiBU=/85x85/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3468350/original/002953700_1622341985-COVER_Berita_Infografis_-_Manchester_City_Vs_Chelsea_Man_Of_The_Match_NGolo_Kante.jpg",
+        "Link": "https://m.bola.com/inggris/read/4570009/10-alasan-fans-mudah-jatuh-cinta-kepada-ngolo-kante-saking-ramahnya-tak-menolak-diundang-makan-fans-arsenal",
+        "Source": "bola.com",
+        "Title": "10 Alasan Fans Mudah Jatuh Cinta kepada N'Golo Kante: Saking Ramahnya, Tak Menolak Diundang Makan Fans Arsenal"
+    },
+    {
+        "Date": "30 Mei 2021 19:30",
+        "Img": "https://cdn1-production-images-kly.akamaized.net/qyJPydBRGXpNmYDQtqj0XsAyf10=/85x85/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3467836/original/058096600_1622254939-000_94H7K6.jpg",
+        "Link": "https://m.bola.com/inggris/read/4569830/liga-inggris-pilih-harry-kane-atau-jadon-sancho-manchester-united-sudah-putuskan-jawabannya",
+        "Source": "bola.com",
+        "Title": "Liga Inggris: Pilih Harry Kane atau Jadon Sancho? Manchester United Sudah Putuskan Jawabannya"
+    },
+    {
+        "Date": "30 Mei 2021 11:45",
+        "Img": "https://cdn1-production-images-kly.akamaized.net/-WafhvMzuf_kYiFPWcEfsvGN-C8=/85x85/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3465906/original/098521300_1622074167-AP21146802071602.jpg",
+        "Link": "https://m.bola.com/inggris/read/4569486/liga-inggris-manchester-united-disarankan-ganti-ole-gunnar-solksjaer-dengan-antonio-conte",
+        "Source": "bola.com",
+        "Title": "Liga Inggris: Manchester United Disarankan Ganti Ole Gunnar Solksjaer dengan Antonio Conte"
+    },
+    {
+        "Date": "30 Mei 2021 11:15",
+        "Img": "https://cdn0-production-images-kly.akamaized.net/ISutYTuU8wYoPQObti52FophH_8=/85x85/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3468299/original/070757300_1622321085-E2kSDXCXEAo2wzL.jpg",
+        "Link": "https://m.bola.com/inggris/read/4569571/liga-inggris-brentford-tim-asal-london-yang-promosi-ke-premier-league-setelah-menunggu-73-tahun",
+        "Source": "bola.com",
+        "Title": "Liga Inggris: Brentford, Tim Asal London yang Promosi ke Premier League setelah Menunggu 73 Tahun"
+    },
+    {
+        "Date": "29 Mei 2021 23:15",
+        "Img": "https://cdn1-production-images-kly.akamaized.net/slztLEg3ozWLcg9eo_w2LUnxKro=/85x85/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3436919/original/046433800_1619088454-000_9692L8.jpg",
+        "Link": "https://m.bola.com/inggris/read/4569402/liga-inggris-eks-arsenal-dan-manchester-united-kritik-perlakuan-chelsea-terhadap-hakim-ziyech",
+        "Source": "bola.com",
+        "Title": "Liga Inggris: Eks Arsenal dan Manchester United Kritik Perlakuan Chelsea terhadap Hakim Ziyech"
+    }
+]
+}
